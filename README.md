@@ -17,7 +17,7 @@ The programming task consists of the following components:
    - Utilizing Large Language Models (LLMs) such as ChatGPT, Bard, and all-mpnet-base-v2 to solve phrase and sentence similarity scores in zero-shot and few-shot settings. Comparative analysis is conducted across different LLMs and fine-tuned models.
 
 4. **Paper Reading Task:**
-   - Analysis of the paper "BERTScore: Evaluating Text Generation with BERT" as part of the task requirements.
+   - Analysis of the paper "BERTScore: Evaluating Text Generation with BERT" as part of the task requirements. https://www.canva.com/design/DAGHYWAD92I/_bg4KElaVJhkE5lUkuI16w/edit?utm_content=DAGHYWAD92I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Usage
 
